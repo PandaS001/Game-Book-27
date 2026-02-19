@@ -11,7 +11,7 @@ const games = [
         description: 'Игра на вращающемся кубе. 54 выигрышные комбинации!',
         icon: '🎲',
         color: '#ff4d4d',
-        url: 'https://ваша-ссылка-1.com',
+        url: 'https://pandas001.github.io/3D-Cub-/',
         gradient: 'linear-gradient(135deg, #ff4d4d, #ff9d4d)',
         players: '2 игрока'
     },
@@ -21,7 +21,7 @@ const games = [
         description: '50 слов, барабан, призы. Отгадай все слова!',
         icon: '🎡',
         color: '#00ffff',
-        url: 'https://ваша-ссылка-2.com',
+        url: 'https://pandas001.github.io/50-uz/',
         gradient: 'linear-gradient(135deg, #00ffff, #4d4dff)',
         players: '1 игрок'
     },
@@ -31,7 +31,7 @@ const games = [
         description: 'Проверь свой интеллект. Загадки разной сложности.',
         icon: '🧠',
         color: '#00ff9d',
-        url: 'https://ваша-ссылка-3.com',
+        url: 'https://pandas001.github.io/50/',
         gradient: 'linear-gradient(135deg, #00ff9d, #00ccff)',
         players: '1 игрок'
     },
@@ -51,7 +51,7 @@ const games = [
         description: 'Классическая игра для двоих на одном устройстве.',
         icon: '👥',
         color: '#ffff00',
-        url: 'https://ваша-ссылка-5.com',
+        url: 'https://pandas001.github.io/50-uz/',
         gradient: 'linear-gradient(135deg, #ffff00, #ffaa00)',
         players: '2 игрока'
     }
@@ -213,3 +213,4 @@ function addSchemaMarkup() {
     document.head.appendChild(script);
 
 }
+
