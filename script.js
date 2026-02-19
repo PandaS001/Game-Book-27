@@ -51,7 +51,7 @@ const games = [
         description: 'Классическая игра для двоих на одном устройстве.',
         icon: '👥',
         color: '#ffff00',
-        url: 'https://pandas001.github.io/50-uz/',
+        url: 'https://pandas001.github.io/X0-NN/',
         gradient: 'linear-gradient(135deg, #ffff00, #ffaa00)',
         players: '2 игрока'
     }
@@ -213,4 +213,5 @@ function addSchemaMarkup() {
     document.head.appendChild(script);
 
 }
+
 
