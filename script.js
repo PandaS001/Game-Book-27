@@ -41,7 +41,7 @@ const games = [
         description: 'Сразись с умным искусственным интеллектом!',
         icon: '🤖',
         color: '#ff00ff',
-        url: 'https://ваша-ссылка-4.com',
+        url: 'https://pandas001.github.io/X0/',
         gradient: 'linear-gradient(135deg, #ff00ff, #ff66ff)',
         players: '1 игрок'
     },
@@ -211,4 +211,5 @@ function addSchemaMarkup() {
     script.type = 'application/ld+json';
     script.textContent = JSON.stringify(schema);
     document.head.appendChild(script);
+
 }
